@@ -5,7 +5,6 @@ import joblib # FOR SAVING MY MODEL AS A BINARY FILE
 from matplotlib.colors import ListedColormap
 import os
 
-plt.style.use("fivethirtyeight") # THIS IS STYLE OF GRAPHS
 
 
 def prepare_data(df):
