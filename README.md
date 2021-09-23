@@ -1,5 +1,6 @@
 # oneneuron
 oneneuron | Perceptron
+<<<<<<< HEAD
 
 
 ## commands
@@ -7,3 +8,5 @@ oneneuron | Perceptron
 ## changes commands 
 
 ## New changes
+
+## New changed commands
