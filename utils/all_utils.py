@@ -8,6 +8,15 @@ import os
 
 
 def prepare_data(df):
+
+   """it is used to separate the dependent variables and independent features
+    Args:
+        df (pd.DataFrame): its the pandas DataFrame to
+    Returns:
+        tuple: it returns the tuples of dependent variables and independent variables
+    """
+
+   
   X = df.drop("y", axis=1)
 
   y = df["y"]
